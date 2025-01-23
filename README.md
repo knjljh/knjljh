@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning about R and Python! I'm currently working on batteries and how I can use these softwares in conjunction with it.
+
 <!--
 **knjljh/knjljh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
